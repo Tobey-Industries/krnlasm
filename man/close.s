@@ -12,7 +12,8 @@ mov bx, 0h
 mov cl, 0h 
 mov ch, 0h
 mov cx, 0h
-
-;;(c) Tobey Organization 
-;;      The Medioka project. 
-;;       5/9/2022 9:26 PM
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;(c) Tobey Organization    ;;
+;;      The Medioka project.;; 
+;;       5/9/2022 9:29 PM   ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
